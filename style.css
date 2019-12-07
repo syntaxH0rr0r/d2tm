@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+html, body {margin: 0;}
+h1 {font-family: 'Bebas Neue', cursive; font-size: 6vh; text-align: center; margin: 1vh;}
+canvas {display: block; margin: 0 auto; height: calc(92vh - 30px);}
